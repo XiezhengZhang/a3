@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.body1{
+	width: 1100px;
+	background-color:#EDEDED;
+	}
+
+.menu ul{
+	background-color: #00BFFF;
+	text-align:center;
+	list-style:none;
+	
+	/*margin-left:auto;*/
+/*margin-right:auto;*/
+/*width:70%;*/
+}
+.menu ul li{
+	margin:2em;
+	display:inline;
+	}
+
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+} 
+
