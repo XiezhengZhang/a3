@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+table, td, th {
+    border: 1px solid black;
+	margin:40px;
+}
+table{
+	text-align:center;} 
+	
+	table {
+    border-collapse: collapse;
+    width: 92%;
+	height: 102%;
+}
+
+#join{
+	font-size:20px;
+	color:#4E2D2E}
